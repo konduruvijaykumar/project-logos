@@ -1,2 +1,2 @@
 # project-logos
-This project is about creating logos in adobe photo shop
+This project is about creating logos, images etc in adobe photo shop
